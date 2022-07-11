@@ -9,8 +9,11 @@ namespace curso_designPatterns
             //OpenClosedPrinciple ocp = new OpenClosedPrinciple();
             //ocp.Execute();
 
-            LiskovSubstitutionPrinciple lsp = new LiskovSubstitutionPrinciple();
-            lsp.Execute();
+            //LiskovSubstitutionPrinciple lsp = new LiskovSubstitutionPrinciple();
+            //lsp.Execute();
+
+            InterfaceSegregationPrinciple isp = new InterfaceSegregationPrinciple();
+            isp.Execute();
         }
     }
 }

@@ -1,7 +1,7 @@
 # Design Patterns 
 
 ## Definição
- Padrão de código para solução de problemas na criação de um software
+ Padrão de código para solução de problemas na criação de um softwaree
 
 ## Padrão SOLID
 

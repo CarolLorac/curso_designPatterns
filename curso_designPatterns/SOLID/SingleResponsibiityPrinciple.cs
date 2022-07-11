@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace curso_designPatterns.SOLID
 {
-    public class SingleResponsibiityPrinciple {}
+    public class SingleResponsibiityPrinciple { }
 
     //Correct
     class Client

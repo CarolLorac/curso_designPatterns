@@ -1,0 +1,15 @@
+C:\Users\CarolineSouza\Source\Repos\curso_designPatterns\curso_designPatterns\obj\Debug\net6.0\curso_designPatterns.csproj.AssemblyReference.cache
+C:\Users\CarolineSouza\Source\Repos\curso_designPatterns\curso_designPatterns\obj\Debug\net6.0\curso_designPatterns.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\CarolineSouza\Source\Repos\curso_designPatterns\curso_designPatterns\obj\Debug\net6.0\curso_designPatterns.AssemblyInfoInputs.cache
+C:\Users\CarolineSouza\Source\Repos\curso_designPatterns\curso_designPatterns\obj\Debug\net6.0\curso_designPatterns.AssemblyInfo.cs
+C:\Users\CarolineSouza\Source\Repos\curso_designPatterns\curso_designPatterns\obj\Debug\net6.0\curso_designPatterns.csproj.CoreCompileInputs.cache
+C:\Users\CarolineSouza\Source\Repos\curso_designPatterns\curso_designPatterns\bin\Debug\net6.0\curso_designPatterns.exe
+C:\Users\CarolineSouza\Source\Repos\curso_designPatterns\curso_designPatterns\bin\Debug\net6.0\curso_designPatterns.deps.json
+C:\Users\CarolineSouza\Source\Repos\curso_designPatterns\curso_designPatterns\bin\Debug\net6.0\curso_designPatterns.runtimeconfig.json
+C:\Users\CarolineSouza\Source\Repos\curso_designPatterns\curso_designPatterns\bin\Debug\net6.0\curso_designPatterns.dll
+C:\Users\CarolineSouza\Source\Repos\curso_designPatterns\curso_designPatterns\bin\Debug\net6.0\curso_designPatterns.pdb
+C:\Users\CarolineSouza\Source\Repos\curso_designPatterns\curso_designPatterns\obj\Debug\net6.0\curso_designPatterns.dll
+C:\Users\CarolineSouza\Source\Repos\curso_designPatterns\curso_designPatterns\obj\Debug\net6.0\refint\curso_designPatterns.dll
+C:\Users\CarolineSouza\Source\Repos\curso_designPatterns\curso_designPatterns\obj\Debug\net6.0\curso_designPatterns.pdb
+C:\Users\CarolineSouza\Source\Repos\curso_designPatterns\curso_designPatterns\obj\Debug\net6.0\curso_designPatterns.genruntimeconfig.cache
+C:\Users\CarolineSouza\Source\Repos\curso_designPatterns\curso_designPatterns\obj\Debug\net6.0\ref\curso_designPatterns.dll

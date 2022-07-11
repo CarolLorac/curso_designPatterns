@@ -1,7 +1,7 @@
 #Design Patterns 
  Padrão de código para solução de problemas na criação de um software
 
-#Padrão SOLID
+##Padrão SOLID
  S - Single Responsibility Principle - SRP
 	A classe só deve ter uma responsabilidade/objetivo, ou seja, não pode fazer ações diferntes em contextos diferentes
 
@@ -16,7 +16,7 @@
 	subclasses sem quebrar o aplicativo.
 	É quando você constroi os códigos seguindo um padrão, então, quando for necessário modificar algo só será necessário mudar o nome
 
-#Anotações
+##Anotações
  * Quando o método é abstrata não é possível instânciá-lo.
 	ex: public abstract class NubankCard {}
  * "virtual" permite o método ser sobrescrito, ou seja, usar um override 

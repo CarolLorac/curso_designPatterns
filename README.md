@@ -1,7 +1,7 @@
-#Design Patterns 
+# Design Patterns 
  Padrão de código para solução de problemas na criação de um software
 
-#Padrão SOLID
+# Padrão SOLID
 
  S - Single Responsibility Principle - SRP
 	A classe só deve ter uma responsabilidade/objetivo, ou seja, não pode fazer ações diferntes em contextos diferentes
@@ -22,7 +22,7 @@ I - Interface Segregation Principle - ISP
 	Segundo o ISP, ao utilizar uma interface, não devemos ser expostos a métodos de que não precisa
 	https://reflectoring.io/interface-segregation-principle/#what-is-an-interface 
 
-#Anotações
+# Anotações
  * Quando o método é abstrata não é possível instânciá-lo.
 	ex: public abstract class NubankCard {}
  * "virtual" permite o método ser sobrescrito, ou seja, usar um override 

@@ -4,9 +4,10 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace curso_designPatterns.SOLID
+namespace curso_designPatterns.SOLID.DependencyInversionPrinciple
 {
-    internal class DependencyInversionPrinciple
+    interface IDbProduct
     {
+        string GetProductByID(string id);
     }
 }
